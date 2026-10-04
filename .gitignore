@@ -1,0 +1,13 @@
+kaggle.json
+.env
+*.zip
+Wonders of World/
+data/
+datasets/
+*.keras
+*.h5
+*.weights.h5
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
